@@ -1,5 +1,7 @@
 # experts-evaluation-2018Questionnaire
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1211001.svg)](https://doi.org/10.5281/zenodo.1211001)
+
 ## Description
 
 This repository presents the analysis of the experts evaluation for the first version of the "Questionnaire for the observation of visual literacy in the public consumer in the new technologies" as it appears on https://doi.org/10.5281/zenodo.1156293
