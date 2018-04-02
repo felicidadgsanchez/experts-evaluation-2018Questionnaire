@@ -6,7 +6,7 @@
 
 This repository presents the analysis of the experts evaluation for the first version of the "Questionnaire for the observation of visual literacy in the public consumer in the new technologies" as it appears on https://doi.org/10.5281/zenodo.1156293
 
-In this analysis, we check the different assessment done by 5 experts about the pertinency, clearness and relevance of each item and construct composing the questionnaire. In general, each item and construct will be accepted _as is_ if it achieves a Q1 evaluation (mean score >=0.75) in each assessment on pertinency, clearness and relevance. If any of these scores lower than 0.75 the item should be reviewed before the final version of the questionnaire. As well as, if all three aspects score lower than 0.75 the item must be rejected from its inclusion in the questionnaire.
+In this analysis, we check the different assessment done by 5 experts about the pertinency, clearness and relevance of each item and construct composing the questionnaire. In general, each item and construct will be accepted _as is_ if it achieves a Q1 evaluation (mean score >=0.75) in each assessment on pertinence, clarity and relevance. If any of these scores lower than 0.75 the item should be reviewed before the final version of the questionnaire. As well as, if all three aspects score lower than 0.75 the item must be rejected from its inclusion in the questionnaire.
 
 ## Notes
 
